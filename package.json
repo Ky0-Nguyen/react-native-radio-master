@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-radio-master",
+        "scope": null,
+        "escapedName": "react-native-radio-master",
+        "name": "react-native-radio-master",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/nguyentuan/Desktop/hb_wallet"
+    ]
+  ],
+  "_from": "react-native-radio-master@latest",
+  "_id": "react-native-radio-master@1.0.1",
+  "_inCache": true,
+  "_location": "/react-native-radio-master",
+  "_nodeVersion": "4.4.3",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-radio-master-1.0.1.tgz_1491528404124_0.24374576122500002"
+  },
+  "_npmUser": {
+    "name": "anyutz",
+    "email": "1366969408@qq.com"
+  },
+  "_npmVersion": "3.10.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-radio-master",
+    "scope": null,
+    "escapedName": "react-native-radio-master",
+    "name": "react-native-radio-master",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-radio-master/-/react-native-radio-master-1.0.1.tgz",
+  "_shasum": "a3c375875e5d1130682a3ac72610713e5da163ea",
+  "_shrinkwrap": null,
+  "_spec": "react-native-radio-master",
+  "_where": "/Users/nguyentuan/Desktop/hb_wallet",
+  "author": {
+    "name": "anyutz"
+  },
+  "bugs": {
+    "url": "https://github.com/antiantian/radio/issues"
+  },
+  "dependencies": {},
+  "description": "a radio component",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a3c375875e5d1130682a3ac72610713e5da163ea",
+    "tarball": "https://registry.npmjs.org/react-native-radio-master/-/react-native-radio-master-1.0.1.tgz"
+  },
+  "homepage": "https://github.com/antiantian/radio#readme",
+  "keywords": [
+    "react",
+    "react-native",
+    "radio",
+    "radio-groups"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "anyutz",
+      "email": "1366969408@qq.com"
+    }
+  ],
+  "name": "react-native-radio-master",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antiantian/radio.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
